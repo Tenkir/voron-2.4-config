@@ -1,0 +1,19 @@
+# Automatically created backups
+config/printer-*.cfg
+
+# Communications
+comms/
+
+# Certificates
+certs/
+
+# Backups
+backup/
+
+# Logs
+logs/
+database/
+gcodes/
+systemd/
+.moonraker.uuid
+moonraker.asvc
