@@ -17,3 +17,4 @@ gcodes/
 systemd/
 .moonraker.uuid
 moonraker.asvc
+misc/
